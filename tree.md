@@ -1,0 +1,1 @@
+created check.txt so i can check stash behaviour for if I do not stage changes but I stashed them then I want to se if I apply stash then the changes will be automatically staged or not usinng git stash apply stash@{}

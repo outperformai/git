@@ -1,0 +1,1 @@
+this is blooper, I did not stage changes so this time git is unexpectedly working when running git stash, it is not hiding the changes and not listing stashes even on executing git stash list this time, but I am gonnam experimenting with first staging the changes and then run git stash.
