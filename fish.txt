@@ -1,0 +1,3 @@
+fish.txt created to show if I stash changes directly without staging them then the stash won't 
+create hide the created file and won't generate stash list.
+CONCLUSION: The above statement is true
