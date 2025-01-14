@@ -1,0 +1,1 @@
+print("Greetings of the day!")
