@@ -1,0 +1,1 @@
+I wanted to see how the commit history will be reflected to main branch when merging changes from feature.
