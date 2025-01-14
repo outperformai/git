@@ -1,1 +1,1 @@
-print("App")
+print("App is now app.")
