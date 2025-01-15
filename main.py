@@ -1,1 +1,1 @@
-print("main is now Main")
+print("main is now main.py")
